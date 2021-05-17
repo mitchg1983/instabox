@@ -1,0 +1,104 @@
+.MainButton {
+    height: 150px;
+    width: 150px;
+    background-color: #FAFAFA;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 35px;
+    margin-bottom: 35px;
+    margin-left: 110px;
+    margin-right: 110px;
+}
+
+.InfoBox {
+    background-color: #FAFAFA;
+    height: 180px;
+    width: 500px;
+    display: flex;
+    margin-top: 35px;
+    margin-bottom: 35px;
+    flex-direction: column;
+    font-family: Arial;
+}
+
+.InstaBoxTop {
+    background-color: #FAFAFA;
+    height: 250px;
+    width: 1075px;
+    display: flex;
+}
+
+.Friends {
+    background-color: #FAFAFA;
+    height: 185px;
+    width: 1075px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Portrait {
+    height: 120px;
+    width: 90px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: column;
+    margin: 20px;
+    font-family: Arial;
+}
+
+.PhotoFace {
+
+}
+
+.NameText {
+
+}
+
+.CompanyName {
+    height: 20px;
+    width: 100%;
+    display: flex;
+    font-size: 24px;
+}
+.Numbers {
+    height: 20px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.Message {
+    height: 40px;
+    width: 100%;
+    padding-bottom: 20px;
+
+}
+.Followers {
+    height: 20px;
+    width: 100%;
+    padding-top: 40px;
+    font-size: 13px;
+    color: #9B9B9B;
+}
+
+.FollowingBox {
+    border-radius: 5px;
+    border: solid #DBDBDB 1px;
+    padding: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 13px;
+}
+
+.MoreDots {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
